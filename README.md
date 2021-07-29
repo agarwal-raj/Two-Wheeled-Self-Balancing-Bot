@@ -1,9 +1,11 @@
 # Two-Wheeled-Self-Balancing-Bot
 Resources and Assignments for Two-Wheeled-Self-Balancing-Bot, Semester Project 2021
 
-## General Instructions
+![alt text](https://github.com/agarwal-raj/Two-Wheeled-Self-Balancing-Bot/blob/main/Image.jpg)
 
-### Using your Local Machine
+## Approach
+
+### Modeling, Simulating and, Testing 
 1. Fork the repo on GitHub: Use the button at the top right.
 2. Clone the project to your machine
 
