@@ -1,7 +1,7 @@
 # Two-Wheeled-Self-Balancing-Bot
 Resources and Assignments for Two-Wheeled-Self-Balancing-Bot, Semester Project 2021
 
-![alt text](https://github.com/agarwal-raj/Two-Wheeled-Self-Balancing-Bot/blob/main/Image.jpg)
+![alt text](https://github.com/agarwal-raj/Two-Wheeled-Self-Balancing-Bot/blob/main/Model.jpg)
 
 ## Approach: Model, Estimate, Control, Simulate and, Test
  
