@@ -5,35 +5,20 @@ Resources and Assignments for Two-Wheeled-Self-Balancing-Bot, Semester Project 2
 
 ## Approach
 
-### Modeling, Simulating and, Testing 
-1. Fork the repo on GitHub: Use the button at the top right.
-2. Clone the project to your machine
+### Model, Estimate, Control, Simulate and, Test 
 
-    ```bash
-    git clone https://github.com/${your_username}/Two-Wheeled-Self-Balancing-Bot.git
-    ```
-
-3. Commit your solutions to your own branch: 
-
-    Create a new branch by
-
-    ```bash
-    git checkout -b ${your_branch_name}
-    ```
-
-4. Push your work back up to your fork: 
-
-    Navigate to the top-level repo directory and:
-
-    ```bash
-    git add .
-    git commit -m "commit message"
-    git push origin ${your_branch_name} 
-    ```
-
-5. Update the repo on your system by [setting an upstream](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) to the `main` branch of **this** repository and then running -  
-    ```bash
-    git fetch upstream
-    git checkout main
-    git merge upstream/main
-    ```
+1. MODELLING:
+        - Mathematical Model (MATLAB & Simulink)
+                    - Linearized and Non Linearized
+                    - Limited to Inverted cart- pendulum system
+        - Simscape Model
+                    - Can include disturbanes and noise
+                    - Not limited to Inverted cart- pendulum system
+                    - Can add more realistic features to the Bot
+2. ESTIMATE & CONTROL:
+        - Kalman- filter
+        - PID & LQR
+        - Linear Quadratic Gaussian Approach
+        - Dicrete vs. Continuous Control
+3. SIMULATE & TEST:
+        - Simscape
